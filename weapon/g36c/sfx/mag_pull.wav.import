@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mag_pull.wav-d80e533fee5fd7a2c4df397606b8693b.sample"
+
+[deps]
+
+source_file="res://weapon/g36c/sfx/mag_pull.wav"
+dest_files=[ "res://.import/mag_pull.wav-d80e533fee5fd7a2c4df397606b8693b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
