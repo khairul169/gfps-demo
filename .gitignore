@@ -1,0 +1,9 @@
+# Godot project
+.import/*
+
+# Blender
+*.blend1
+
+# etc
+*.exe
+export_presets.cfg
