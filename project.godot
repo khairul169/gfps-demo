@@ -14,10 +14,6 @@ config/name="GodotFPS demo project"
 run/main_scene="res://scenes/scene.tscn"
 config/icon="res://icon.png"
 
-[autoload]
-
-network_mgr="*res://gfps/scripts/network/network_mgr.gd"
-
 [display]
 
 window/size/width=848
