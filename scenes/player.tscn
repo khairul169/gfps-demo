@@ -94,9 +94,8 @@ far = 100.0
 script = ExtResource( 2 )
 _sections_unfolded = [ "Transform" ]
 enabled = true
-Controller = NodePath("..")
 bob_speed = 0.8
-bob_factor = 0.01
+bob_factor = 0.2
 min_weight = 1.2
 interpolation = 4.0
 
@@ -199,7 +198,6 @@ JumpLanding = ExtResource( 7 )
 [node name="weapon" type="Node" parent="." index="5"]
 script = ExtResource( 8 )
 FirstPersonView = ExtResource( 9 )
-ModelScaling = 0.05
 EnableScopeRender = true
 ScopeRenderSize = 512.0
 MuzzleFlash = ExtResource( 10 )

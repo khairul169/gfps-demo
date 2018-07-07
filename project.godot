@@ -98,4 +98,5 @@ ui_end={
 
 [rendering]
 
+quality/voxel_cone_tracing/high_quality=false
 environment/default_environment="res://default_env.tres"
